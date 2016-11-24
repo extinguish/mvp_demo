@@ -1,0 +1,1 @@
+include ':app', ':mosby', ':fragmentnav', ':rxjavademo', ':coretextutil'
